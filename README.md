@@ -35,3 +35,18 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 3. Database:
 - MySql
+![S1](https://github.com/anmolkamble7/Electro_Mart/assets/157481921/cdb7ad84-0019-41b0-ada4-739853d4cd6c)
+
+![S2](https://github.com/anmolkamble7/Electro_Mart/assets/157481921/cac98965-ebc0-4b4f-9e36-f37e74ffbb68)
+
+![S3](https://github.com/anmolkamble7/Electro_Mart/assets/157481921/3a88c77c-e5f0-480c-b3ad-aa63fe0484d1)
+
+![S4](https://github.com/anmolkamble7/Electro_Mart/assets/157481921/a82d7d1d-90c1-45dd-be3c-4be04e8b2042)
+
+![S5](https://github.com/anmolkamble7/Electro_Mart/assets/157481921/5fdd637b-3954-4527-a352-1c83de23933c)
+
+
+
+
+
+
